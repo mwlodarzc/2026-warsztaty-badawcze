@@ -40,9 +40,9 @@ Końcowa ocena zależy od liczby uzyskanych punktów w następujący sposób
 
 ## Grupy projektowe
 
-- Dawid Płudowski
-- Inez Okulska
-- Jan Piotrowski
+- [Dawid Płudowski](grp_cv_steeering_vectors.md)
+- [dr Inez Okulska](grp_framing_the_SLM_multiagents.md)
+- [Jan Piotrowski](grp-weird-llms.md)
 - Michał Włodarczyk
 - Vladimir Zaigrajew
   
