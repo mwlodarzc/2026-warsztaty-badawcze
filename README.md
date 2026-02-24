@@ -43,6 +43,6 @@ Końcowa ocena zależy od liczby uzyskanych punktów w następujący sposób
 - Dawid Płudowski
 - Inez Okulska
 - Jan Piotrowski
-- Michał Włodarczyk
+- [Uczenie Uwikłanych Neuronowych Map Poznawczych](https://github.com/mwlodarzc/warsztaty-badawcze-2-2026) (prowadzi: Michał Włodarczyk - grupa 2, limit osob 12)
 - Vladimir Zaigrajew
   
