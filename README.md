@@ -40,9 +40,9 @@ Końcowa ocena zależy od liczby uzyskanych punktów w następujący sposób
 
 ## Grupy projektowe
 
-- Dawid Płudowski
-- Inez Okulska
-- Jan Piotrowski
-- [Uczenie Uwikłanych Neuronowych Map Poznawczych](https://github.com/mwlodarzc/warsztaty-badawcze-2-2026) (prowadzi: Michał Włodarczyk - grupa 2, limit osob 12)
-- Vladimir Zaigrajew
+- [Dawid Płudowski](grp_cv_steeering_vectors.md)
+- [dr Inez Okulska](grp_framing_the_SLM_multiagents.md)
+- [Jan Piotrowski](grp-weird-llms.md)
+- [Michał Włodarczyk](https://github.com/mwlodarzc/warsztaty-badawcze-2-2026)
+- [Vladimir Zaigrajew](https://github.com/WolodjaZ/Warsztaty-badawcze-2-2026)
   
