@@ -4,6 +4,10 @@
 
 Dawid Płudowski
 
+## Repozytorium
+
+[https://github.com/DawidPludowski/Warsztaty-badawcze-2-2026](https://github.com/DawidPludowski/Warsztaty-badawcze-2-2026)
+
 ## Opis
 
 Modele wizyjne potrafią często uczyć się zaskakujących zależności ze zdjęć. Na przykład, model uczący się rozpoznawać wiek osoby ze zdjęcia "przy okazji" potrafi wykrywać zmarszczki, kolor włosów, czy inne *cechy*, które dla nas są intuicyjne, a jednocześnie są nietrywialne do wykrycia statystycznie. Jak skorzystać z tej *ukrytej* wiedzy, którą posiada model? Istnieje wiele metod, ale podczas zajęć skupimy się na podstawach i rozważamy **hipotezę liniowej separowalności**, która mówi, że przestrzeń ukryta modelu może zostać podzielona hiperpłaszczyzną tak, aby oddzielić zdjęcia, które posiadają konkretną *cechę* (np. przedstawiają osobę z siwymi włosami) od pozostałych. Dodatkowo, rozszerzymy ten koncept o **hierarchiczność** cech, narzucając dodatkowe założenia na analizowaną przestrzeń, aby polepszyć aktualnie istniejące metody.
